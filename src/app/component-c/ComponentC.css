@@ -1,0 +1,9 @@
+.selected-image {
+    transition: transform 0.3s ease;
+    width: 700px;
+    height: auto;
+}
+
+.selected-image:hover {
+    transform: scale(1.5);
+}
